@@ -1,0 +1,2 @@
+# AndroidEncryptedFileDemo
+测试使用Github作为静态加密文件托管平台
