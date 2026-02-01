@@ -1,0 +1,7 @@
+# 明确告诉 Git：.enc 是二进制文件
+*.enc binary
+
+# 顺手把常见二进制也声明掉（可选，但不坏）
+*.bin binary
+*.dat binary
+*.model binary
